@@ -1,0 +1,6 @@
+{
+  "name": "Runbook AI - Log Investigation & Bilingual Synthesis",
+  "description": "ADR-042 MVP: Self-evolving runbook execution, autonomous tool synthesis, and bilingual synthesis generating customer-facing and SRE reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
